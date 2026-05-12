@@ -6,5 +6,3 @@ birthdays = {
     "Priya": "14 Apr",
     "Karan": "30 May"
 }
-for name, date in birthdays.items():
-    print(f"{name}'s birthday is on {date}")
