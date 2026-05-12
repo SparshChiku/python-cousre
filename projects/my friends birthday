@@ -1,0 +1,10 @@
+# Raj's friends and their birthdays
+birthdays = {
+    "Amit": "12 Jan",
+    "Sneha": "5 Feb",
+    "Ravi": "23 Mar",
+    "Priya": "14 Apr",
+    "Karan": "30 May"
+}
+for name, date in birthdays.items():
+    print(f"{name}'s birthday is on {date}")
